@@ -83,4 +83,6 @@ This section outlines the complete end-to-end process followed in the Breast Can
   ##  Results
   The Breast Cancer Prediction models were trained, tuned, and evaluated using standard metrics. Below are the performance results for both Support Vector Machine (SVM) and Random Forest Classifier after hyperparameter tuning with RandomizedSearchCV .
 
-  
+  ## How to Run Locally
+1. Clone the repository:
+https://github.com/Waseem-23/Breast-Cancer-Prediction
